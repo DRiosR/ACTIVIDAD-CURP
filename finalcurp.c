@@ -1,3 +1,45 @@
+// RiosRodriguezDaniel 372800
+// 12-oct-23
+/*
+ACTIVIDAD CURP
+Realiza un programa que sirva para generar el CURP de una persona.
+El programa debe pedir los datos al usuario, generar, almacenar en una cadena y desplegar el CURP.
+El programa deberá repetirse cuantas veces desee el usuario
+Nota: el programa deberá estar 100% validado, de datos entrada así como las reglas que e deben cuplir al generar el curp
+Instructivo:
+DATOS PARA PROBAR FUNCIONAMIENTO DE CURP
+FRAIRE
+LOPEZ
+JOSE
+OMAR
+1997
+31
+ENERO
+HOMBRE
+GUERRERO
+CURP: FXLO970131HGRRPM02
+
+CHAN
+CWEN
+2002
+MARZO
+28
+HOMBRE
+NACIDO EN EL EXTRANJERO
+CURP: CAXC020328HNEHXWA2
+
+DE LA LOMA
+XIU
+JOSE
+ANDRES
+2007
+DICIEMBRE
+28
+HOMBRE
+YUCATAN
+CURP: LOXA071228HYNMXNA3
+*/
+// R.R.D_act10_1_932
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
